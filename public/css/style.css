@@ -1,0 +1,13 @@
+
+@media (min-width: 300px) {
+    #body{
+        background-image: url('/image/bg2.jpg');
+    }
+}
+
+
+@media (min-width: 975px) {
+    #body{
+        background-image: url('/image/bg.jpg');
+    }
+}
